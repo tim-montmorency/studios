@@ -16,12 +16,11 @@ Les studios ont été conçus en tant qu’espaces de travail et de diffusion po
 * Dimensions approximatives de la salle sans cyclorama : 12,2 x 9,06 m ou 40 x 30 pieds.
 * Dimensions approximatives du cyclorama : 3,06 x 9,06 m ou 10 x 30 pieds
 * Le grand studio fait environ 18 pieds ou 5,48 m de haut. 
-* Une herse d’accrochage (d’une capacité d’une tonne) est fixée à environ 15 pieds ou 4,5 m du plancher. 
-* Les tuyaux de la grille sont en noir anodisé selon le standard théâtre.
-* La grille forme des carrés de 4 x 4 pieds ou 1,2 x 1,2 m. 
-* Une personne d’environ 5 pieds peut accrocher de l’équipement de manière sécuritaire depuis le plancher à l’aide d’un escalier mobile de 10 pieds ou 3 m. 
+* Une grille d’accrochage (d’une capacité d’une tonne) est fixée à environ 15 pieds ou 4,5 m du plancher. 
+* Les tuyaux de la grille d’accrochage sont en noir anodisé selon le standard théâtre et forme des carrés de 4 x 4 pieds ou 1,2 x 1,2 m. 
+* Une personne d’au moins 5 pieds peut accrocher à la grille d'accrochage de l’équipement de manière sécuritaire depuis le plancher à l’aide d’un escalier mobile de 10 pieds ou 3 m. 
 * Sous le tapis, le sol est constitué de dalles de béton de 2 x 2 pieds ou 0,6 x 0,6 m (qui peuvent être soulevées avec difficulté).
-* La hauteur sous les dalles est de ½ pied ou 16 cm.
+* La hauteur du vide sous les dalles est de ½ pied ou 16 cm.
 * Des liaisons filaires audio, réseautiques et électriques au plancher et au plafond relient plusieurs endroits du studio avec une salle de contrôle externe. 
 * Le plancher, recouvert d’un tapis, peut-être démonté pour y cacher de l’équipement.
 * Puisque le sol est recouvert d’un tapis, les liquides sont interdits dans la salle.
