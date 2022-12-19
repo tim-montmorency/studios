@@ -1,4 +1,4 @@
-# Fiche technique des studios du département de techniques d’intégration multimédia à montmorency
+# Fiche technique des studios TIM à montmorency
 
 ## Introduction
 Ce document a été rédigé par Thomas O Fredericks grâce à la précieuse contribution de Guillaume Arseneault, Xavier Martel-Lachance et William Racine.
