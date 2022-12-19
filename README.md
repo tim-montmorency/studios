@@ -1,4 +1,4 @@
-# Fiche technique des studios TIM à montmorency
+![Fiche technique des studios TIM à montmorency](./titre.png)
 
 ## Introduction
 Ce document a été rédigé par Thomas O Fredericks grâce à la précieuse contribution de Guillaume Arseneault, Xavier Martel-Lachance et William Racine.
@@ -43,3 +43,10 @@ Les techniciens ne sont pas des techniciens dédiés au studios. Ce sont des tec
 
 ## Plan 2D des studios
 ![Plan 2D des studios](./plan_des_studios_2D.jpg)
+
+## Plan de connectique du plancher
+![Plan de connectique du plancher](./plan_Placher_Studio_Ethernet_XLR.png)
+
+## Plan de connectique du plafond
+![Plan de connectique du plafond](./plan_Plafond_Studio_Prises_Ethernet_XLR.png)
+
