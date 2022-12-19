@@ -37,3 +37,9 @@ Le petit studio est composé de 2 espaces isolés acoustiquement, séparés par 
 
 ## Une note à propos des techniciens
 Les techniciens ne sont pas des techniciens dédiés au studios. Ce sont des techniciens en travaux pratiques qui ont plusieurs mandats variés. Les techniciens peuvent donner assistance selon leurs disponibilités avec le fonctionnement de certains équipements, mais les utilisateurs de l’espace devront être autonome pour l'installation, le transport et les accrochages. 
+
+## Plan 3D des studios
+![Plan 3D des studios](./plan_des_studios_3D.png)
+
+## Plan 2D des studios
+![Plan 2D des studios](./plan_des_studios_2D.jpg)
